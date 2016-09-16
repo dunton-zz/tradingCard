@@ -1,0 +1,45 @@
+/* add your CSS here */
+div p:first-of-type {
+	font-style: italic;
+}
+
+.list-item {
+	font-weight: bold;
+	margin-left: -10px;
+}
+
+li {
+	list-style-type: none;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+	padding: 5px 0px 5px 5px;
+}
+
+body {
+	border-style: solid;
+	border-color: #D3D3D3;
+	border-width: 1px;
+	width: 310px;
+	padding: 0px 10px 15px 10px;
+}
+
+.animal-name {
+	padding-left: 5px;
+}
+
+.text {
+	border-style: solid;
+	border-color: #D3D3D3;
+	border-width: 1px;
+	margin-right: 3px;
+	margin-left: 3px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.shadow {
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
